@@ -1,0 +1,9 @@
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\bin\Debug\WindowsFormsLab1.exe.config
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\bin\Debug\WindowsFormsLab1.exe
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\bin\Debug\WindowsFormsLab1.pdb
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.Form1.resources
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.Properties.Resources.resources
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.exe
+C:\Users\nikit\source\repos\WindowsFormsLab1\WindowsFormsLab1\obj\Debug\WindowsFormsLab1.pdb
