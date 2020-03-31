@@ -1,0 +1,6 @@
+1 BMW 400 Good AFA412AD 4 Black True False
+2 Mercedes 450 Good AFA412AD 4 Black True False
+3 Wolksvagen 350 Good AFA412AD 4 Black True False
+4 Nisan 400 Good AGALNJ24 4 Black True False
+5 Reno 375 Good 14412AD 4 Black True False
+6 Tesla 1500 New AE2162AD 4 Black True False

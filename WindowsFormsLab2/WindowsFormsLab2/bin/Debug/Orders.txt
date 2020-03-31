@@ -1,0 +1,4 @@
+1 Vin Dexter 35651651 Mercedes Good 3 1350
+2 Dexter Malkon 3801651654 BMW Good 6 2400
+3 Artur Morgan 3263515156 Tesla New 6 9000
+4 Джонатан Денворд 3586165464 Tesla New 1 1500
